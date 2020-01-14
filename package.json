@@ -1,0 +1,22 @@
+{
+  "name": "snyk-goof-fix-pred",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohad2712/snyk-goof-fix-pred.git"
+  },
+  "author": "",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohad2712/snyk-goof-fix-pred/issues"
+  },
+  "homepage": "https://github.com/ohad2712/snyk-goof-fix-pred#readme"
+}
